@@ -8,7 +8,7 @@ A message box scheduled to appear to remind people to take their daily temperatu
 
 # Scheduler
 * Import the **Daily Pop up - Afternoon.xml** to the Task Scheduler.
-* Change the script directory, user as well as the time of execution.
+* Change the _script directory_, _user_ as well as the _time of execution_.
 
 # Output
 ![](https://github.com/d3athkai/VBS-Message-Box/blob/master/output.jpg?raw=true)
