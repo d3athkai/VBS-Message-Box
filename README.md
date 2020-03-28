@@ -7,7 +7,7 @@ A message box scheduled to appear to remind people to take their daily temperatu
 * Test run **Popup.vbs** to view the message box.
 
 # Scheduler
-* Import the **Daily Pop up - Afternoon.xml** to the Task Scheduler.
+* Import the **Daily Pop up.xml** to the Task Scheduler.
 * Change the _script directory_, _user_ as well as the _time of execution_.
 
 # Output
